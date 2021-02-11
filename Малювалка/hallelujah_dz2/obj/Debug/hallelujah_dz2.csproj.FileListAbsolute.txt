@@ -1,0 +1,10 @@
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\bin\Debug\hallelujah_dz2.exe.config
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\bin\Debug\hallelujah_dz2.exe
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\bin\Debug\hallelujah_dz2.pdb
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\obj\Debug\hallelujah_dz2.csprojAssemblyReference.cache
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\obj\Debug\hallelujah_dz2.Properties.Resources.resources
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\obj\Debug\hallelujah_dz2.csproj.GenerateResource.cache
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\obj\Debug\hallelujah_dz2.csproj.CoreCompileInputs.cache
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\obj\Debug\hallelujah_dz2.exe
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\obj\Debug\hallelujah_dz2.pdb
+C:\Users\vozni\source\repos\hallelujah_dz2\hallelujah_dz2\obj\Debug\hallelujah_dz2.Form1.resources

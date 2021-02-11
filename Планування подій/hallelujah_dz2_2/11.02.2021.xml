@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <eventName>One</eventName>
+    <date>2021-04-24T00:00:00</date>
+    <priority>Низький</priority>
+    <eventPlace>None</eventPlace>
+    <eventInfo>Подія: One 	Місце: None 	Дата: 24.04.2021	 Приорітет: Низький</eventInfo>
+  </Event>
+  <Event>
+    <eventName>Two</eventName>
+    <date>2021-02-11T00:00:00</date>
+    <priority>Високий</priority>
+    <eventPlace />
+    <eventInfo>Подія: Two  	 Дата: 11.02.2021	 Приорітет: Високий</eventInfo>
+  </Event>
+</ArrayOfEvent>
